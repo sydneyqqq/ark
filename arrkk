@@ -1,11 +1,11 @@
 [Log_Alert]
-alert_urls = INSERT WEBHOOK HERE
-log_urls = INSERT WEBHOOK HERE
-ocr_urls = INSERT WEBHOOK HERE
+alert_urls = https://discord.com/api/webhooks/982293278600867871/eFJfXlE1GD_Kt5qnHM79llikkqMuZV1D1aaJeVUTE4ZLE_o9xo6Ociic7SGSmRZR_d5q
+log_urls = https://discord.com/api/webhooks/982275374685757500/QoeXSVJvORunH4UY1NHmQw7CFMdPhucULzYDfT3FgmuVD0odavSKM1x3JpPPZDsfSA-Z
+ocr_urls = https://discord.com/api/webhooks/982292953210970242/hjA6CXNN_isvhrYy1OR12HkC0u8F1FiF5JJIPyzRvEhhhQd10oGPjk79xV7Ts06YIZHd
 
 [Role]
-roles = INSERT ROLE ID HERE
-svrole = INSERT ROLE ID HERE
+roles = Gitgub
+svrole = Github
 
 [Alerts]
 ; Set 'true' to enable, 'false' to disable. Caps sensitive.
