@@ -1,0 +1,36 @@
+[Log_Alert]
+alert_urls = https://discord.com/api/webhooks/982293278600867871/eFJfXlE1GD_Kt5qnHM79llikkqMuZV1D1aaJeVUTE4ZLE_o9xo6Ociic7SGSmRZR_d5q
+log_urls = https://discord.com/api/webhooks/982275374685757500/QoeXSVJvORunH4UY1NHmQw7CFMdPhucULzYDfT3FgmuVD0odavSKM1x3JpPPZDsfSA-Z
+ocr_urls = https://discord.com/api/webhooks/982292953210970242/hjA6CXNN_isvhrYy1OR12HkC0u8F1FiF5JJIPyzRvEhhhQd10oGPjk79xV7Ts06YIZHd
+
+[Role]
+roles = Github
+svrole = gitgubb
+
+[Alerts]
+; Set 'true' to enable, 'false' to disable. Caps sensitive.
+
+; Kills: your tribe killed someone or something
+kills=true
+
+; Death & Destruction: death or destruction in your tribe
+death_and_destruction=true
+
+; Tek sensor: self explanatory
+teksensor=true
+
+; Parasaur Ping: self explanatory
+parasaur_ping=true
+
+; Starvation: Your dino starved
+starvation=true
+
+; Demolition: Someone in your tribe demolished one of your structures
+demolition=true
+
+; Enemy Structure Destroyed: Someone in your tribe demolished an enemy structure
+enemy_structure_destroyed=true
+
+; Log Positioning: An unexpected colour appeared in logs, perhaps the logs arent 
+; where the script expects them to be?
+log_positioning=true
